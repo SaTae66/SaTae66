@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SaTae66
 - 👀 I’m interested in distributed computing, server-side progamming as well as networks in general
-- 🌱 I’m currently learning ... Go & GraphQL
+- 🌱 I’m currently learning ... Earthly & Kubernetes
