@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @SaTae66
-- 👀 I’m interested in distributed computing, server-side progamming as well as networks in general
-- 🌱 I’m currently learning ... Earthly & Kubernetes
+- 👋 Hi, I’m Mathias @SaTae66 Bögl
+- 👀 I’m interested in distributed computing, devops and networks in general
+- 🌱 I’m currently learning ... Kubernetes & nginx
