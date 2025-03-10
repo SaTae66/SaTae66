@@ -1,0 +1,3 @@
+- 🫡 Hi, I’m Mathias @SaTae66 Bögl
+- 😲 I’m interested in system programming, garbage collectors and building CI/CD.
+- 🤓 I’m currently learning ... Zig & Korean
